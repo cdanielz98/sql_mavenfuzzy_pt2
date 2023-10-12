@@ -7,7 +7,9 @@ Cindy is close to securing Maven Fuzzy Factory's next round of funding, and she 
 <h3><a href="#">&#x200B;</a>
 1.Task 1:<br>
 First, I'd like to show our volume growth. Can you pull overall session and order volume, trended by quarter for the life of the business? Since the most recent quarter is incomplete, you can decide how to handle it.
+  
 ![T1](https://github.com/cdanielz98/maven-fuzzy-factory-sql/assets/135237144/25aded98-d856-42e0-bd85-c981d51a6368)
+
 > A steady increase in sessions and order volume by quarter for the life of the business.
 <br>
 <br>
